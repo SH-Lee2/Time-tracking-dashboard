@@ -25,7 +25,7 @@ Users should be able to:
 ### Screenshot
 
 <img src="https://user-images.githubusercontent.com/59095793/136667792-a81cc70c-4515-4360-9f79-0720941a82b6.png" width="700">
-<img src="https://user-images.githubusercontent.com/59095793/136667793-1df06b37-6ec4-450d-88fa-79ff297f2fec.gi" width="700">
+<img src="https://user-images.githubusercontent.com/59095793/136667793-1df06b37-6ec4-450d-88fa-79ff297f2fec.gif" width="700">
 
 ## My process
 
