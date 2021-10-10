@@ -76,7 +76,7 @@ body {
     border-radius: 10px;
     padding: var(--card-padding);
 }
-#owner {
+.owner__image {
     width: 80px;
     height: 80px;
     border: 3px solid white;
@@ -204,7 +204,7 @@ li {
     li {
         margin-bottom: 0;
     }
-    #owner {
+    .owner__image {
         margin-bottom: 0;
         width: 70px;
         height: 70px;

@@ -39,7 +39,8 @@ Users should be able to:
 
 ### What I learned
 
-fetch 를 통해 데이터를 받아와 데이터를 다루는법을 배움
+-   fetch 를 통해 데이터를 받아와 데이터를 다루는법을 배움
+-   aria-hidden="true" : 동작 x , 시각적 디자인을 주기위해 사용
 
 ## Author
 
